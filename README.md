@@ -72,5 +72,5 @@ $ npm install
 # Run the app
 $ npm start
 ```
-**Important:** If you're using the code for a module that requires API keys or a backend (e.g. the module about sending Http requests), you'll have to use **your backend URLs** or API keys. Mine won't work (I disabled my projects).
+
 
